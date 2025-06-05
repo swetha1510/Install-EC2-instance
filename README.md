@@ -1,4 +1,4 @@
-1. Explore & Understand AWS
+# 1. Explore & Understand AWS
 Algorithm:
 
 Sign up for AWS
@@ -18,6 +18,7 @@ Use AWS CLI
 Install AWS CLI using pip install awscli or download from AWS.
 Configure AWS CLI using aws configure.
 Practice with AWS Documentation
+![image](https://github.com/user-attachments/assets/f9cecaf2-c9f7-4080-9f10-736aecb6955e)
 
 Visit the AWS Documentation for hands-on learning.
 2. Create & Manage Amazon EC2 Instances
@@ -99,5 +100,8 @@ Launch OpenStack Dashboard
 Access Horizon Dashboard using http://<your-server-ip>/dashboard.
 Log in with admin credentials.
 Result:
+![Screenshot 2025-05-28 152956](https://github.com/user-attachments/assets/9d2bf17d-3573-4e11-8219-52d1910cd3bb)
+
+![image](https://github.com/user-attachments/assets/70474610-03d8-441e-bf15-60d106f0ec06)
 
 Successfully installed OpenStack and accessed the Horizon Dashboard.
